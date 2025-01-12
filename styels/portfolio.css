@@ -1,0 +1,37 @@
+/* nav style */
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.dark-2{
+  color: #474747;
+}
+
+
+.work-sans-normal {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.nav-title{
+  font-weight: 800;
+  font-size: 45px;
+}
+.nave-titel-v-deco{
+  color: #FD6E0A;
+}
+nav ul li{
+  list-style: none;
+  margin-right: 50px;
+
+}
+nav li a{
+  text-decoration: none;
+  font-size: 20px;
+
+}
+nav ul{
+  display: flex;
+}
